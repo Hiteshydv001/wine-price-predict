@@ -42,26 +42,31 @@ Create new features or transform existing ones to improve the predictive power o
 - Evaluate the model's performance on the validation dataset using appropriate regression metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared (R2) score. Visualize the model's predictions against actual wine quality ratings to assess its accuracy.
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Hiteshydv001/wine-price-predict/blob/main/Screenshot%202023-09-24%20110604.png?raw=true)
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Hiteshydv001/wine-price-predict/blob/main/Screenshot%202023-09-24%20110636.png?raw=true)
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Hiteshydv001/wine-price-predict/blob/main/download%20(1).png?raw=true)
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Hiteshydv001/wine-price-predict/blob/main/download%20(2).png?raw=true)
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Hiteshydv001/wine-price-predict/blob/main/download.png?raw=true)
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Hiteshydv001/wine-price-predict/blob/main/download%20(3).png?raw=true)
+
+
+![App Screenshot](https://github.com/Hiteshydv001/wine-price-predict/blob/main/Screenshot%202023-09-24%20110730.png?raw=true)
+
+
 
 ## Tech Stack
 
-**Languages:** Python |
+**Languages:** Python 
 
 **Framework:** Jupyter Notebook || Pycharm 
 
