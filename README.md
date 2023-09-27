@@ -71,10 +71,6 @@ Create new features or transform existing ones to improve the predictive power o
 **Framework:** Jupyter Notebook || Pycharm 
 
 
-## Demo
-
-Insert gif or link to demo
-
 
 ## 🔗 Links
 ## let's connect
